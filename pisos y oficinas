@@ -1,0 +1,520 @@
+#include<iostream>
+#include<stdlib.h>
+#include<conio.h>
+
+using namespace std;
+
+main(){
+	setlocale(LC_CTYPE,"Spanish");
+	int piso,oficina,edad;
+	string s;
+	s='s';
+	{
+	cout<<"ingrese el numero del piso al que desa ingresar: "; 
+	cin>> piso;
+	 switch(piso){
+	 case 1: cout<< "Bienvenid@ al piso numero uno\n"; 
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   ;
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; }
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;
+				
+		
+
+	 case 2: cout<< "Bienvenid@ al piso numero dos\n"; 
+	   
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+			
+		
+			
+		case 3: cout<< "Bienvenid@ al piso numero tres\n"; 
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   ;
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+				
+				
+	
+				
+				
+	case 4: cout<< "Bienvenid@ al piso numero cuatro\n"; 
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   ;
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+			
+				
+			
+		
+				
+								
+	case 5: cout<< "Bienvenid@ al piso numero cinco\n"; 
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   ;
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+				
+			
+		
+				
+								
+	case 6: cout<< "Bienvenid@ al piso numero seis\n"; 
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+	
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+			
+			    
+		
+				
+								
+	case 7: cout<< "Bienvenid@ al piso numero siete\n"; 
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina;
+		    	switch (oficina){
+				
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	
+		         break;
+				 case 7: cout<< "Bienvenid@ al oficina siete\n";
+			
+				break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		   	
+		   
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+				
+				
+				
+	
+				
+								
+	case 8:cout<<"Bienvenid@ al piso numero ocho\n"; 
+	
+	
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+		
+				
+
+				
+								
+	case 9: cout<< "Bienvenid@ al piso numero nueve\n"; 
+	
+	
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+				default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+	
+				
+		
+										
+	case 10: cout<< "Bienvenid@ al piso numero diez\n"; 
+	
+	
+		     
+		    cout<< "Ingrese el numero de la oficina ala que desea ingresar:\n "; 
+		    cin>>oficina; 
+		    	switch (oficina){
+		    	case 1: cout<< "Bienvenid@ a la oficina uno\n";
+		    	
+		    	break;
+		    	case 2: cout<< "Bienvenid@ a la oficina dos\n";
+		    	
+		    	break;
+				case 3: cout<< "Bienvenid@ a la oficina tres\n";
+		    	
+		    	
+		    	break;
+		    	case 4: cout<< "Bienveid@ al oficina cuatro\n";
+		    	
+		    
+		    	break;
+				case 5: cout<< "Bienvenid@ al oficina cinco\n";
+		    	
+		    
+		    	break;
+				case 6: cout<< "Bienvenid@ al oficina seis\n";
+		    	
+		    	;
+		    	break;
+				case 7: cout<< "Bienvenid@ al oficina siete\n";
+		    	
+		    	
+		    	break;
+				case 8: cout<< "Bienvenid@ al oficina ocho\n";
+		    	
+		   
+		    	break;
+				case 9: cout<< "Bienvenid@ al oficina nueve\n";
+		    	
+		    	
+		    	break;
+				case 10: cout<< "Bienvenid@ al oficina diez\n"; 
+				break;
+			    default:cout<<"error al ingreasar con este digito al menu";
+				break;}
+				
+			
+		
+				
+								
+
+
+
+
+				
+				
+			
+			
+		
+		
+		
+		     
+		  
+
+		    
+		
+		
+
+		}
+	}
+}
